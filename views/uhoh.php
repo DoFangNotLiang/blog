@@ -2,7 +2,7 @@
 
   <ul class="breadcrumb">
     <li>
-      <a href="<?php echo BASE_URL; ?>"><i class="glyphicon glyphicon-home glyphicon-white"></i> /wiki</a>
+      <a href="<?php echo BASE_URL; ?>"><i class="glyphicon glyphicon-home glyphicon-white"></i> /Home</a>
     </li>
 
     <li>

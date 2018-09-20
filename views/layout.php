@@ -47,7 +47,7 @@ function e($dirty) {
         <script src="static/js/codemirror.min.js"></script>
     </head>
 <body>
-    <div id="main">
+    <div id="main" >
         <?php if(USE_WIKITTEN_LOGO === true): ?>
             <a href="http://wikitten.vizuina.com" id="logo" target="_blank" class="hidden-phone">
                 <img src="static/img/logo.png" alt="">
@@ -75,6 +75,9 @@ function e($dirty) {
                 </div>
             </div>
         </div>
+    </div>
+    <div id="footer">
+	<div id="copyright"><p align="center"> Copyright &copy; <a href="http://0x1.win" target="_blank">0x1.win</a>, All Rights Reserved, Powered by <a href="https://github.com/victorstanciu/Wikitten" target="_blank">victorstanciu/Wikitten</a>, E-Mail：g@0x1.win, QQ Group: 790645805.</p></div>
     </div>
     <script>
         <?php if(USE_WIKITTEN_LOGO === true): ?>
