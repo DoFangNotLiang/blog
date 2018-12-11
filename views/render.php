@@ -1,7 +1,7 @@
 <div class="breadcrumbs">    
     <div class="pull-right">
         <?php if ($html && isset($source)): ?>
-            <a href="javascript:;" class="btn-black" id="toggle">Toggle source</a>
+            <!-- <a href="javascript:;" class="btn-black" id="toggle">Toggle source</a> -->
         <?php endif ?>
         <?php if ($use_pastebin): ?>
             <a href="javascript:;" class="btn-black" id="create-pastebin" title="Create public Paste on PasteBin">Create public Paste</a>
